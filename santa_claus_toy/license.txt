@@ -1,0 +1,11 @@
+Model Information:
+* title:	Santa Claus Toy
+* source:	https://sketchfab.com/3d-models/santa-claus-toy-1691f56428df4b3482614496c6e91083
+* author:	Aumentados (https://sketchfab.com/minego90)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Santa Claus Toy" (https://sketchfab.com/3d-models/santa-claus-toy-1691f56428df4b3482614496c6e91083) by Aumentados (https://sketchfab.com/minego90) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
